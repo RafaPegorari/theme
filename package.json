@@ -12,7 +12,8 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.8.3",
-    "@material-ui/styles": "^4.8.2",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/styles": "^4.8.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "single-spa-react": "^2.10.2"
