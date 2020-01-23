@@ -22,7 +22,7 @@ const useStyles = makeStyles({
 })
 
 interface Props {
-  children: JSX.Element
+  children?: JSX.Element
 }
 
 const Layout = (props: Props) => {
